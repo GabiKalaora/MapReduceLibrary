@@ -1,6 +1,3 @@
-//
-// Created by hoday on 07/06/2021.
-//
 #include "MapReduceFramework.h"
 #include <pthread.h>
 #include <atomic>
